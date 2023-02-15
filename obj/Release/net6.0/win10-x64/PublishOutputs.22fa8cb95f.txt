@@ -1,0 +1,5 @@
+/Users/allenkemp/Documents/Programming/C#/TCG-DTFX-Generator/bin/Release/net6.0/win10-x64/publish/TCG-DTFX-Generator.exe
+/Users/allenkemp/Documents/Programming/C#/TCG-DTFX-Generator/bin/Release/net6.0/win10-x64/publish/TCG-DTFX-Generator.dll
+/Users/allenkemp/Documents/Programming/C#/TCG-DTFX-Generator/bin/Release/net6.0/win10-x64/publish/TCG-DTFX-Generator.deps.json
+/Users/allenkemp/Documents/Programming/C#/TCG-DTFX-Generator/bin/Release/net6.0/win10-x64/publish/TCG-DTFX-Generator.runtimeconfig.json
+/Users/allenkemp/Documents/Programming/C#/TCG-DTFX-Generator/bin/Release/net6.0/win10-x64/publish/TCG-DTFX-Generator.pdb

@@ -1,0 +1,15 @@
+/Users/allenkemp/Documents/Programming/C#/TCG-DTFX-Generator/bin/Release/net6.0/win10-x64/TCG-DTFX-Generator.exe
+/Users/allenkemp/Documents/Programming/C#/TCG-DTFX-Generator/bin/Release/net6.0/win10-x64/TCG-DTFX-Generator.deps.json
+/Users/allenkemp/Documents/Programming/C#/TCG-DTFX-Generator/bin/Release/net6.0/win10-x64/TCG-DTFX-Generator.runtimeconfig.json
+/Users/allenkemp/Documents/Programming/C#/TCG-DTFX-Generator/bin/Release/net6.0/win10-x64/TCG-DTFX-Generator.dll
+/Users/allenkemp/Documents/Programming/C#/TCG-DTFX-Generator/bin/Release/net6.0/win10-x64/TCG-DTFX-Generator.pdb
+/Users/allenkemp/Documents/Programming/C#/TCG-DTFX-Generator/obj/Release/net6.0/win10-x64/TCG-DTFX-Generator.csproj.AssemblyReference.cache
+/Users/allenkemp/Documents/Programming/C#/TCG-DTFX-Generator/obj/Release/net6.0/win10-x64/TCG-DTFX-Generator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allenkemp/Documents/Programming/C#/TCG-DTFX-Generator/obj/Release/net6.0/win10-x64/TCG-DTFX-Generator.AssemblyInfoInputs.cache
+/Users/allenkemp/Documents/Programming/C#/TCG-DTFX-Generator/obj/Release/net6.0/win10-x64/TCG-DTFX-Generator.AssemblyInfo.cs
+/Users/allenkemp/Documents/Programming/C#/TCG-DTFX-Generator/obj/Release/net6.0/win10-x64/TCG-DTFX-Generator.csproj.CoreCompileInputs.cache
+/Users/allenkemp/Documents/Programming/C#/TCG-DTFX-Generator/obj/Release/net6.0/win10-x64/TCG-DTFX-Generator.dll
+/Users/allenkemp/Documents/Programming/C#/TCG-DTFX-Generator/obj/Release/net6.0/win10-x64/refint/TCG-DTFX-Generator.dll
+/Users/allenkemp/Documents/Programming/C#/TCG-DTFX-Generator/obj/Release/net6.0/win10-x64/TCG-DTFX-Generator.pdb
+/Users/allenkemp/Documents/Programming/C#/TCG-DTFX-Generator/obj/Release/net6.0/win10-x64/TCG-DTFX-Generator.genruntimeconfig.cache
+/Users/allenkemp/Documents/Programming/C#/TCG-DTFX-Generator/obj/Release/net6.0/win10-x64/ref/TCG-DTFX-Generator.dll
