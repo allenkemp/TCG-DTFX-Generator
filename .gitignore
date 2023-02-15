@@ -10,3 +10,10 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+#dtfx files
+*.dtfx
+
+.DS_Store
+
+bin/Debug/*
