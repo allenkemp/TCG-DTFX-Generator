@@ -399,3 +399,4 @@ FodyWeavers.xsd
 
 # dtfx files
 *.dtfx
+.DS_Store
